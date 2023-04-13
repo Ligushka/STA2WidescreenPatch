@@ -22,7 +22,7 @@ This patch has been tested with about one hour of "Instant Action" gameplay and 
 
 * Install the __Microsoft Visual C++ Redistributable Package 2019 14.28.29914.0 (32-bit)__, if not already installed on your system.
     - This is the final version of the Microsoft Visual C++ Redistributable which supports Windows XP.
-* Download `STA2WidescreenPatch-XP.zip`.
+* Download `XP-STA2WidescreenPatch.zip`.
 * Extract the ZIP file and copy all contents to the root of the Star Trek™: Armada II game directory.
 * Launch the game and go to the __Graphics Options__ menu. Select your monitor's native resolution from the dropdown list.
 * Play the game!
