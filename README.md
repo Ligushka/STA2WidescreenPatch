@@ -8,6 +8,10 @@ __STA2WidescreenPatch__ was created with the intent to add support for modern wi
 
 This patch has been tested with about one hour of "Instant Action" gameplay and by completing the first Federation campaign mission "Invasion" at `1920x1080` (1080p) and `3840x2160` (4K) resolutions. Extensive testing (i.e. by playing through the entire single-player campaign) has not been done at the time of writing. It is unknown how this patch behaves with multiple-monitor configurations. If you encounter problems during gameplay, please report an issue on GitHub.
 
+Screenshot at 1080p resolution:
+
+![sta2-1080p](https://user-images.githubusercontent.com/13472038/231906318-446304c5-f0f9-4dbb-94eb-c556831fc421.png)
+
 # Installation
 
 * Install the latest [Visual C++ 2015 - 2022 (X86) Redistributable](https://aka.ms/vs/17/release/vc_redist.x86.exe), if not already installed on your system.
