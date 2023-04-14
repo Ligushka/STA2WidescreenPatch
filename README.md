@@ -15,7 +15,7 @@ Screenshot at 1080p resolution:
 # Installation
 
 * Install the latest [Visual C++ 2015 - 2022 (X86) Redistributable](https://aka.ms/vs/17/release/vc_redist.x86.exe), if not already installed on your system.
-* Download `STA2WidescreenPatch.zip`.
+* [Download `STA2WidescreenPatch.zip`.](https://github.com/Ligushka/STA2WidescreenPatch/releases)
 * Extract the ZIP file and copy all contents to the root of the Star Trek™: Armada II game directory.
 * Launch the game and go to the __Graphics Options__ menu. Select your monitor's native resolution from the dropdown list.
 * Play the game!
@@ -26,7 +26,7 @@ Screenshot at 1080p resolution:
 
 * Install the __Microsoft Visual C++ Redistributable Package 2019 14.28.29914.0 (32-bit)__, if not already installed on your system.
     - This is the final version of the Microsoft Visual C++ Redistributable which supports Windows XP.
-* Download `XP-STA2WidescreenPatch.zip`.
+* [Download `XP-STA2WidescreenPatch.zip`.](https://github.com/Ligushka/STA2WidescreenPatch/releases)
 * Extract the ZIP file and copy all contents to the root of the Star Trek™: Armada II game directory.
 * Launch the game and go to the __Graphics Options__ menu. Select your monitor's native resolution from the dropdown list.
 * Play the game!
